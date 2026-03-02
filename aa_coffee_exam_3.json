@@ -1,0 +1,1514 @@
+{
+  "id": "AA-COFFEE-EXAM-3",
+  "last_updated": "2025-11-03",
+  "cafe_records": [
+    {
+      "name": "Thesis & Beans",
+      "area": "Diag",
+      "menu": [
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 10.95,
+          "oz": 16
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": "26.27",
+          "oz": 16
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 4.91,
+          "oz": 14
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "8:05 AM",
+            "wait_minutes": 8
+          },
+          "rating": "4.2"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "9:00 AM",
+            "wait_minutes": 12
+          },
+          "rating": "2.9"
+        },
+        {
+          "user": "bluebus_fan",
+          "visit": {
+            "time": "7:30",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "7:45",
+            "wait_minutes": 23
+          },
+          "rating": "4.4"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "11:20",
+            "wait_minutes": 1
+          },
+          "rating": "3.8"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "7:30",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "11:45 AM",
+            "wait_minutes": 0
+          },
+          "rating": "4.5"
+        }
+      ],
+      "hours_open": "6:30 AM",
+      "hours_close": "6:45"
+    },
+    {
+      "name": "Canvas Crash Cafe",
+      "area": "North Campus",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "10.21",
+          "oz": 10
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "17.33",
+          "oz": 16
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 22.85,
+          "oz": 16
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "20.85",
+          "oz": 8
+        }
+      ],
+      "reviews": [
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "10:00 AM",
+            "wait_minutes": 4
+          },
+          "rating": 2.8
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "8:00",
+            "wait_minutes": 10
+          },
+          "rating": 4.7
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "6:10",
+            "wait_minutes": 12
+          },
+          "rating": 4.0
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "11:40",
+            "wait_minutes": 6
+          },
+          "rating": "3.7"
+        },
+        {
+          "user": "bluebus_fan",
+          "visit": {
+            "time": "8:50 AM",
+            "wait_minutes": 4
+          },
+          "rating": "3.3"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "5:30 AM",
+            "wait_minutes": 0
+          },
+          "rating": "4.4"
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "8:40",
+            "wait_minutes": 1
+          }
+        }
+      ],
+      "hours_open": "5:30 AM",
+      "hours_close": "9:10 AM"
+    },
+    {
+      "name": "Panic at the Espresso",
+      "area": "Main St",
+      "menu": [
+        {
+          "drink_name": "Existential Espresso",
+          "price": 6.87,
+          "oz": 12
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 8.66,
+          "oz": 14
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "18.52",
+          "oz": 14
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 16.03,
+          "oz": 6
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "22.8",
+          "oz": 14
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:30",
+            "wait_minutes": 1
+          },
+          "rating": "3.9"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "5:50",
+            "wait_minutes": 0
+          },
+          "rating": "4.1"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:50 AM",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "8:30",
+            "wait_minutes": 18
+          },
+          "rating": 3.0
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "11:45 AM",
+            "wait_minutes": 23
+          },
+          "rating": "4.0"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:20 AM",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "hours_open": "7:20",
+      "hours_close": "9:05 AM"
+    },
+    {
+      "name": "Rubric Roastery",
+      "area": "Main St",
+      "menu": [
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 26.04,
+          "oz": 3
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": 10.78,
+          "oz": 3
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 15.09,
+          "oz": 10
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "6:20 AM",
+            "wait_minutes": 10
+          },
+          "rating": "3.8"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "5:15 AM",
+            "wait_minutes": 15
+          },
+          "rating": "2.7"
+        }
+      ],
+      "hours_open": "6:40",
+      "hours_close": "9:30 AM"
+    },
+    {
+      "name": "Office Hours Oasis",
+      "area": "Main St",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 17.55,
+          "oz": 4
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "7.57",
+          "oz": 12
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": 8.27,
+          "oz": 10
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 11.66,
+          "oz": 3
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 16.76,
+          "oz": 4
+        }
+      ],
+      "reviews": [
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "8:05",
+            "wait_minutes": 18
+          },
+          "rating": 5.0
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "5:50 AM",
+            "wait_minutes": 0
+          },
+          "rating": "3.0"
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "8:00 AM",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "5:10",
+            "wait_minutes": 8
+          },
+          "rating": "3.9"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "11:15 AM",
+            "wait_minutes": 10
+          }
+        }
+      ],
+      "hours_open": "11:10 AM",
+      "hours_close": "11:00"
+    },
+    {
+      "name": "Midterm Macchiato Bar",
+      "area": "Diag",
+      "menu": [
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "24.24",
+          "oz": 10
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "8.26",
+          "oz": 8
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "14.71",
+          "oz": 8
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": "24.24",
+          "oz": 14
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 21.55,
+          "oz": 16
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "9.05",
+          "oz": 6
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "7:50 AM",
+            "wait_minutes": 2
+          },
+          "rating": 4.0
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "6:20 AM",
+            "wait_minutes": 0
+          },
+          "rating": "4.9"
+        }
+      ],
+      "hours_open": "5:40",
+      "hours_close": "5:40"
+    },
+    {
+      "name": "Thesis & Beans",
+      "area": "South U",
+      "menu": [
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 12.5,
+          "oz": 16
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "15.81",
+          "oz": 4
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "11.25",
+          "oz": 10
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "24.44",
+          "oz": 12
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 20.91,
+          "oz": 14
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "22.49",
+          "oz": 12
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "19.53",
+          "oz": 4
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "19.44",
+          "oz": 10
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "visit": {
+            "time": "6:40",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "10:10 AM",
+            "wait_minutes": 2
+          },
+          "rating": 3.1
+        }
+      ],
+      "hours_open": "9:05 AM",
+      "hours_close": "6:50"
+    },
+    {
+      "name": "Canvas Crash Cafe",
+      "area": "Kerrytown",
+      "menu": [
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "25.87",
+          "oz": 12
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "23.27",
+          "oz": 10
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": "15.15",
+          "oz": 3
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 23.22,
+          "oz": 14
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": "5.07",
+          "oz": 2
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "13.41",
+          "oz": 14
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "25.18",
+          "oz": 2
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "9:15 AM",
+            "wait_minutes": 4
+          },
+          "rating": "2.9"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "11:00 AM",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "9:50",
+            "wait_minutes": 27
+          },
+          "rating": "4.7"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "6:30 AM",
+            "wait_minutes": 8
+          },
+          "rating": 3.4
+        }
+      ],
+      "hours_open": "9:50 AM",
+      "hours_close": "5:50 AM"
+    },
+    {
+      "name": "Panic at the Espresso",
+      "area": "League",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 18.57,
+          "oz": 3
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "19.91",
+          "oz": 12
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "25.8",
+          "oz": 2
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": "12.54",
+          "oz": 14
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "13.77",
+          "oz": 6
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "11:05",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "6:40 AM",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "7:50 AM",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "10:00 AM",
+            "wait_minutes": 0
+          },
+          "rating": 4.5
+        }
+      ],
+      "hours_close": "8:30 AM"
+    },
+    {
+      "name": "Rubric Roastery",
+      "area": "League",
+      "menu": [
+        {
+          "drink_name": "NFT Nitro",
+          "price": null,
+          "oz": 8
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 16.1,
+          "oz": 8
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "20.3",
+          "oz": 12
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 19.96,
+          "oz": 16
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "16.82",
+          "oz": 12
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 9.24,
+          "oz": 14
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 25.75,
+          "oz": 8
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "15.79",
+          "oz": 14
+        }
+      ],
+      "reviews": [
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "11:00 AM",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "7:10",
+            "wait_minutes": 8
+          },
+          "rating": 2.9
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "7:05",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "5:20",
+            "wait_minutes": 2
+          },
+          "rating": 4.4
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "5:30",
+            "wait_minutes": 27
+          },
+          "rating": 4.9
+        }
+      ],
+      "hours_open": "5:20 AM",
+      "hours_close": "8:10"
+    },
+    {
+      "name": "Office Hours Oasis",
+      "area": "State Street",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "9.91",
+          "oz": 16
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 6.38,
+          "oz": 3
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": 24.58,
+          "oz": 12
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "24.4",
+          "oz": 10
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "10:20",
+            "wait_minutes": 0
+          },
+          "rating": "3.9"
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "8:15 AM",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "10:40",
+            "wait_minutes": 0
+          },
+          "rating": "4.6"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "8:45 AM",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "visit": {
+            "time": "9:50 AM",
+            "wait_minutes": 1
+          },
+          "rating": "3.1"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "10:10 AM",
+            "wait_minutes": 8
+          },
+          "rating": "5.0"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:30",
+            "wait_minutes": 18
+          },
+          "rating": 3.7
+        }
+      ],
+      "hours_open": "9:15 AM",
+      "hours_close": "5:50 AM"
+    },
+    {
+      "name": "Midterm Macchiato Bar",
+      "area": "Kerrytown",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "19.6",
+          "oz": 8
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 24.06,
+          "oz": 6
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "5.33",
+          "oz": 6
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 24.33,
+          "oz": 14
+        }
+      ],
+      "reviews": [
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "5:10 AM",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "8:05",
+            "wait_minutes": 1
+          },
+          "rating": 3.0
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "8:10 AM",
+            "wait_minutes": 18
+          },
+          "rating": 2.8
+        }
+      ],
+      "hours_open": "9:45 AM",
+      "hours_close": "10:20 AM"
+    },
+    {
+      "name": "Thesis & Beans",
+      "area": "Kerrytown",
+      "menu": [
+        {
+          "drink_name": "Existential Espresso",
+          "price": "24.97",
+          "oz": 2
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": "8.16",
+          "oz": 2
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "22.45",
+          "oz": 10
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 13.28,
+          "oz": 4
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "15.74",
+          "oz": 10
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "11:30 AM",
+            "wait_minutes": 12
+          },
+          "rating": "3.5"
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "7:50",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "7:15 AM",
+            "wait_minutes": 6
+          },
+          "rating": 3.3
+        }
+      ],
+      "hours_open": "8:40",
+      "hours_close": "9:30"
+    },
+    {
+      "name": "Canvas Crash Cafe",
+      "area": "South U",
+      "menu": [
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "7.01",
+          "oz": 10
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "22.35",
+          "oz": 14
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": 8.12,
+          "oz": 6
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "23.92",
+          "oz": 16
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 18.42,
+          "oz": 12
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 13.09,
+          "oz": 6
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": 19.94,
+          "oz": 8
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": 18.54,
+          "oz": 14
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "7:50",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "10:15",
+            "wait_minutes": 2
+          },
+          "rating": "4.0"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "5:05 AM",
+            "wait_minutes": 8
+          },
+          "rating": "2.9"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "9:30 AM",
+            "wait_minutes": 8
+          },
+          "rating": 5.0
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "10:40",
+            "wait_minutes": 1
+          },
+          "rating": "4.3"
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "7:10",
+            "wait_minutes": 27
+          }
+        }
+      ],
+      "hours_open": "6:45 AM",
+      "hours_close": "9:00 AM"
+    },
+    {
+      "name": "Panic at the Espresso",
+      "area": "Diag",
+      "menu": [
+        {
+          "drink_name": "Existential Espresso",
+          "price": "15.82",
+          "oz": 3
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 25.54,
+          "oz": 2
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "9.1",
+          "oz": 16
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 15.35,
+          "oz": 14
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "25.77",
+          "oz": 2
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 9.29,
+          "oz": 3
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:00 AM",
+            "wait_minutes": 27
+          },
+          "rating": "4.4"
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "6:10",
+            "wait_minutes": 27
+          },
+          "rating": "4.0"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "10:20 AM",
+            "wait_minutes": 6
+          },
+          "rating": 3.5
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "11:50",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "10:05",
+            "wait_minutes": 12
+          },
+          "rating": 4.8
+        }
+      ],
+      "hours_open": "5:40 AM",
+      "hours_close": "5:20 AM"
+    },
+    {
+      "name": "Rubric Roastery",
+      "menu": [
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 6.27,
+          "oz": 3
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "13.71",
+          "oz": 4
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "12.69",
+          "oz": 14
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": 11.69,
+          "oz": 6
+        }
+      ],
+      "reviews": [
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "7:00 AM",
+            "wait_minutes": 4
+          },
+          "rating": 4.9
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "7:00 AM",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "8:20",
+            "wait_minutes": 27
+          },
+          "rating": 4.6
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "6:30",
+            "wait_minutes": 4
+          },
+          "rating": "3.2"
+        }
+      ],
+      "hours_open": "8:45 AM",
+      "hours_close": "10:30 AM"
+    },
+    {
+      "name": "Office Hours Oasis",
+      "area": "South U",
+      "menu": [
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": null,
+          "oz": 4
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "18.76",
+          "oz": 8
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "10.02",
+          "oz": 10
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": 16.08,
+          "oz": 8
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 14.57,
+          "oz": 6
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": 18.5,
+          "oz": 8
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 23.77,
+          "oz": 16
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "7:30",
+            "wait_minutes": 15
+          },
+          "rating": 4.7
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "7:40 AM",
+            "wait_minutes": 12
+          },
+          "rating": 4.9
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:10",
+            "wait_minutes": 6
+          },
+          "rating": 3.2
+        }
+      ],
+      "hours_open": "10:45 AM",
+      "hours_close": "5:05 AM"
+    },
+    {
+      "name": "Midterm Macchiato Bar",
+      "area": "North Campus",
+      "menu": [
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "8.78",
+          "oz": 6
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": 23.56,
+          "oz": 16
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "25.38",
+          "oz": 16
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": 11.98,
+          "oz": 4
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "5:05",
+            "wait_minutes": 4
+          },
+          "rating": "2.9"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "10:50",
+            "wait_minutes": 18
+          },
+          "rating": 4.6
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "9:45",
+            "wait_minutes": 1
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "5:00 AM",
+            "wait_minutes": 27
+          },
+          "rating": "3.3"
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "10:00 AM",
+            "wait_minutes": 15
+          },
+          "rating": "4.7"
+        }
+      ],
+      "hours_open": "8:20",
+      "hours_close": "10:30"
+    },
+    {
+      "name": "Thesis & Beans",
+      "area": "Diag",
+      "menu": [
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "8.09",
+          "oz": 2
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": "14.01",
+          "oz": 10
+        },
+        {
+          "drink_name": "Office Hours Oat Latte",
+          "price": 5.86,
+          "oz": 14
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": "16.21",
+          "oz": 14
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "17.84",
+          "oz": 10
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": "11.83",
+          "oz": 3
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "20.42",
+          "oz": 8
+        },
+        {
+          "drink_name": "Quantum Cortado",
+          "price": "9.35",
+          "oz": 4
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "9:05 AM",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "8:05",
+            "wait_minutes": 10
+          },
+          "rating": 5.0
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "11:00",
+            "wait_minutes": 4
+          },
+          "rating": 3.2
+        },
+        {
+          "user": "bluebus_fan",
+          "visit": {
+            "time": "10:45 AM",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "9:10 AM",
+            "wait_minutes": 4
+          },
+          "rating": 4.0
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "8:45",
+            "wait_minutes": 12
+          },
+          "rating": 3.3
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "8:05 AM",
+            "wait_minutes": 18
+          },
+          "rating": 2.8
+        }
+      ],
+      "hours_open": "9:15",
+      "hours_close": "7:40"
+    },
+    {
+      "name": "Canvas Crash Cafe",
+      "area": "Kerrytown",
+      "menu": [
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": "26.32",
+          "oz": 16
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "4.86",
+          "oz": 16
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": 23.25,
+          "oz": 14
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 25.82,
+          "oz": 6
+        }
+      ],
+      "reviews": [
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "6:10",
+            "wait_minutes": 2
+          },
+          "rating": 4.2
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "10:30",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "visit": {
+            "time": "7:20 AM",
+            "wait_minutes": 18
+          },
+          "rating": "4.5"
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "8:20",
+            "wait_minutes": 18
+          },
+          "rating": "3.1"
+        },
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "11:30",
+            "wait_minutes": 27
+          }
+        }
+      ],
+      "hours_open": "11:45",
+      "hours_close": "5:30 AM"
+    },
+    {
+      "name": "Panic at the Espresso",
+      "area": "State Street",
+      "menu": [
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": 6.63,
+          "oz": 4
+        },
+        {
+          "drink_name": "Midterm Macchiato",
+          "price": "22.05",
+          "oz": 10
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": "21.69",
+          "oz": 2
+        },
+        {
+          "drink_name": "Rubric Ristretto",
+          "price": null,
+          "oz": 6
+        },
+        {
+          "drink_name": "NFT Nitro",
+          "price": "23.73",
+          "oz": 3
+        },
+        {
+          "drink_name": "Syllabus Steamer",
+          "price": "21.02",
+          "oz": 14
+        },
+        {
+          "drink_name": "Existential Espresso",
+          "price": 26.45,
+          "oz": 8
+        }
+      ],
+      "reviews": [
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "5:45",
+            "wait_minutes": 0
+          },
+          "rating": "4.9"
+        },
+        {
+          "user": "codespaces_hero",
+          "visit": {
+            "time": "11:50 AM",
+            "wait_minutes": 10
+          },
+          "rating": 3.6
+        }
+      ],
+      "hours_open": "11:45",
+      "hours_close": "5:50 AM"
+    }
+  ]
+}
